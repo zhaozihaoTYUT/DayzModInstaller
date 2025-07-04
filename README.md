@@ -1,5 +1,7 @@
 # 🎮 DayZModInstaller
 
+<div align=center><img src="img/logo.png" style="width:240px;align=center" /></div>
+
 一个专为 DayZ 本地服务器设计的简易 GUI 工具，  
 用于快速批量同步 Steam 创意工坊已订阅的 MOD 到你的服务器，  
 并自动处理 `.bikey` 签名文件、依赖顺序等琐碎操作，提升 Mod 管理效率。
